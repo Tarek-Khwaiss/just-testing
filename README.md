@@ -4,6 +4,12 @@
 # using the vs code ui
 # a change through th github ui 
 # pull request
+<<<<<<< HEAD
 # we're also working on this line of code
 
 # jesus christ
+=======
+# this is written in the branch justforfun
+
+# hello world
+>>>>>>> justforfun
